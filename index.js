@@ -29,7 +29,8 @@ const carro ={
     marca: 'toyota',
     funciones:{
         acelera: 160,
-        frena: 0,        
+        frena: 0, 
+               
     }
 }
 
